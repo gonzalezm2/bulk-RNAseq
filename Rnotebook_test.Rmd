@@ -1,11 +1,8 @@
 ---
-title: "R Notebook"
+title: "R Notebook for trial"
 output: html_notebook
 ---
 
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
-
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Cmd+Shift+Enter*. 
 
 ```{r}
 # Set up the folder structure
@@ -52,3 +49,18 @@ library(ggplot2)
 
 
 I want to type something else just to test this
+
+
+derp derp derpy derp
+
+
+
+
+
+
+
+
+
+
+
+
